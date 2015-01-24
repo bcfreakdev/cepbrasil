@@ -10,4 +10,5 @@ gem install cepbrasil
 
 Usage:
 
+<a href="https://github.com/bcfreakdev/cepbrasil/wiki">Wiki</a>
 
